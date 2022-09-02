@@ -1,1 +1,2 @@
 # pwa-weather
+Use freely
